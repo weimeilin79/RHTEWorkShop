@@ -1,5 +1,4 @@
-FUSE and Camel Workshop 
-RHTE 2014
+FUSE and Camel Workshop - RHTE 2014
 =================================================
 This is a simple demonstration to get you started on using several components and Enterprise Integration Pattern in Red Hat JBoss Fuse. 
 
